@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link href="styles.css" rel="stylesheet">
+</head>    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Favorite Movies and Actors</title>
+    <!-- Link to Instructor Provided CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Main Heading -->
+    <h1>Welcome to My Favorite Movies and Actors</h1>
+    
+    <!-- Subheading and Ordered List -->
+    <h2>Top 5 Favorite Movies</h2>
+    <ol>
+        <li>Smile</li>
+        <li>Frozen</li>
+        <li>Avengers</li>
+        <li>Star Wars</li>
+        <li>Rampage</li>
+    </ol>
+
+    <!-- Subheading and Unordered List -->
+    <h2>Top 5 Favorite Actors</h2>
+    <ul>
+        <li>Johnny Depp</li>
+        <li>Robert Downey Jr.</li>
+        <li>Tom Holland</li>
+        <li>Chris Rock</li>
+        <li>Kevin Hart</li>
+    </ul>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Example</title>
+</head>
+<body>
+
+    <h1>Welcome to My Webpage</h1>
+    <p>Here is an image of a beautiful flower:</p>
+
+    <img src="C:\Users\17035\Desktop\My first web page\flower.jpeg" alt="Description of Image" width="500" height="auto">
+
+    <h1>Welcome to My Webpage</h1>
+    <p>Click the play button to listen to the audio:</p>
+
+    <!-- Audio Player -->
+    <audio controls>
+        <source src="C:\Users\17035\Desktop\My first web page\Disney's Frozen Let It Go Sequence Performed by Idina Menzel.mp3" type="audio/mp3">
+    </audio>
+
+<h> Above is an audio from the movie frozen. Where Elsa sings the famous Disney song "Let it Go."
+
+
+   
+ <h2>Favorite Movie Scene</h2>
+<h> Below is one of my personal favorite movie scenes from the movie rampage. It involves George the albino monkey doing a questionable act to the 
+    <!-- Video Section with Description -->
+<h2>Video: Epic Movie Moments</h2>
+<iframe width="600" height="340" src="C:\Users\17035\Desktop\My first web page\Rampage (2018) George Shows Middle Finger Scene - Movie Clip HD.mp4"
+
+<p> Above is a scene from the movie Rampage, it involves George the albino monkey doing a questionable act to the trainer.
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio Example</title>
+</head>
+<body>
+
+
+
+</body>
+</html>
